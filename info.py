@@ -46,12 +46,7 @@ default_start_cap = """
 <b>📝 File Name</b> : <code>{file_name}</code>
 
 <b>🧲 File Size</b> : {file_size}
-<b>
- ┏━━━━•❅•°•❈•°•❅•━━━━┓
- ✰👑    𝗖𝝠𝝦𝝩𝝠𝝞𝝥 𝝦𝗥𝝞𝗖𝝽    👑✰
- ┗━━━━•❅•°•❈•°•❅•━━━━┛
-🥷Proudly Presented By🎭 </b>
-@AnonymousBotsInfinity
+https://t.me/Epic_NewMovies_HD
 """
 
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
